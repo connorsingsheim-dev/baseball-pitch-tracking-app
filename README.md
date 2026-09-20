@@ -8,7 +8,7 @@ An R Shiny application developed while working with Northwestern Baseball to sup
 
 This application was built to make live pitching data collection during Northwestern Baseball scrimmages faster and more consistent.
 
-Rather than manually recording and organizing pitch information after a scrimmage, the app provides an interface for tracking each pitch and plate appearance as it happens while maintaining the current game state.
+Rather than manually organizing pitch information after a scrimmage, the app provides an interface for tracking each pitch and plate appearance as it happens while maintaining the current game state.
 
 The resulting pitch-level data could then be exported and used as part of the team's internal pitching analysis and reporting workflow.
 
@@ -86,5 +86,5 @@ The separate R code used for internal KPI calculation and reporting has intentio
 
 ## Files
 
-- `app.R` — Sanitized public version of the live pitch tracking application
+- `nu-pitch-tracking-app.R` — Sanitized public version of the live pitch tracking application
 - `compete-stats-app.png` — Screenshot of the original application interface
